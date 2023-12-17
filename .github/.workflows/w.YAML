@@ -1,0 +1,8 @@
+name: work p
+on : push
+jobs:
+ ay 7aga:
+   run-on: ubuntu-latest
+   steps:
+   -name: print
+    run : echo "hello n" 
